@@ -1,0 +1,45 @@
+This is xxx , Student ID : xxx. This GUI is commonly used for lossless source coding and simple encryption and compression algorithm programming.
+
+Information theory
+Scientific study of digital information / From Wikipedia, the free encyclopedia 
+Huffman coding
+Entropy (information theory)
+Quantum information
+DEAR WIKIWAND AI, LET'S KEEP IT SHORT BY SIMPLY ANSWERING THESE KEY QUESTIONS:
+Can you list the top facts and stats about Information theory?
+
+Summarize this article for a 10 year old
+
+SHOW ALL QUESTIONS
+Information theory is the mathematical study of the quantification, storage, and communication of information. The field was originally established by the works of Harry Nyquist and Ralph Hartley, in the 1920s, and Claude Shannon in the 1940s.:\u200avii\u200a The field, in applied mathematics, is at the intersection of probability theory, statistics, computer science, statistical mechanics, information engineering, and electrical engineering.
+
+Information theory
+Binaryerasurechannel.png
+EntropyDifferential entropyConditional entropyJoint entropyMutual informationDirected informationConditional mutual informationRelative entropyEntropy rateLimiting density of discrete points
+Asymptotic equipartition propertyRate\u2013distortion theory
+Shannon's source coding theoremChannel capacityNoisy-channel coding theoremShannon\u2013Hartley theorem
+vte
+A key measure in information theory is entropy. Entropy quantifies the amount of uncertainty involved in the value of a random variable or the outcome of a random process. For example, identifying the outcome of a fair coin flip (with two equally likely outcomes) provides less information (lower entropy, less uncertainty) than specifying the outcome from a roll of a die (with six equally likely outcomes). Some other important measures in information theory are mutual information, channel capacity, error exponents, and relative entropy. Important sub-fields of information theory include source coding, algorithmic complexity theory, algorithmic information theory and information-theoretic security.
+
+Applications of fundamental topics of information theory include source coding/data compression (e.g. for ZIP files), and channel coding/error detection and correction (e.g. for DSL). Its impact has been crucial to the success of the Voyager missions to deep space, the invention of the compact disc, the feasibility of mobile phones and the development of the Internet. The theory has also found applications in other areas, including statistical inference, cryptography, neurobiology, perception, linguistics, the evolution and function of molecular codes (bioinformatics), thermal physics, molecular dynamics, quantum computing, black holes, information retrieval, intelligence gathering, plagiarism detection, pattern recognition, anomaly detection and even art creation.
+
+Overview
+Information theory studies the transmission, processing, extraction, and utilization of information. Abstractly, information can be thought of as the resolution of uncertainty. In the case of communication of information over a noisy channel, this abstract concept was formalized in 1948 by Claude Shannon in a paper entitled A Mathematical Theory of Communication, in which information is thought of as a set of possible messages, and the goal is to send these messages over a noisy channel, and to have the receiver reconstruct the message with low probability of error, in spite of the channel noise. Shannon's main result, the noisy-channel coding theorem showed that, in the limit of many channel uses, the rate of information that is asymptotically achievable is equal to the channel capacity, a quantity dependent merely on the statistics of the channel over which the messages are sent.
+
+Coding theory is concerned with finding explicit methods, called codes, for increasing the efficiency and reducing the error rate of data communication over noisy channels to near the channel capacity. These codes can be roughly subdivided into data compression (source coding) and error-correction (channel coding) techniques. In the latter case, it took many years to find the methods Shannon's work proved were possible.
+
+A third class of information theory codes are cryptographic algorithms (both codes and ciphers). Concepts, methods and results from coding theory and information theory are widely used in cryptography and cryptanalysis, such as the unit ban.
+
+Historical background
+Main article: History of information theory
+The landmark event establishing the discipline of information theory and bringing it to immediate worldwide attention was the publication of Claude E. Shannon's classic paper "A Mathematical Theory of Communication" in the Bell System Technical Journal in July and October 1948. He came to be known as the "father of information theory".
+
+Prior to this paper, limited information-theoretic ideas had been developed at Bell Labs, all implicitly assuming events of equal probability. Harry Nyquist's 1924 paper, Certain Factors Affecting Telegraph Speed, contains a theoretical section quantifying "intelligence" and the "line speed" at which it can be transmitted by a communication system, giving the relation W = K log m (recalling the Boltzmann constant), where W is the speed of transmission of intelligence, m is the number of different voltage levels to choose from at each time step, and K is a constant. Ralph Hartley's 1928 paper, Transmission of Information, uses the word information as a measurable quantity, reflecting the receiver's ability to distinguish one sequence of symbols from any other, thus quantifying information as H = log Sn = n log S, where S was the number of possible symbols, and n the number of symbols in a transmission. The unit of information was therefore the decimal digit, which since has sometimes been called the hartley in his honor as a unit or scale or measure of information. Alan Turing in 1940 used similar ideas as part of the statistical analysis of the breaking of the German second world war Enigma ciphers.
+
+Much of the mathematics behind information theory with events of different probabilities were developed for the field of thermodynamics by Ludwig Boltzmann and J. Willard Gibbs. Connections between information-theoretic entropy and thermodynamic entropy, including the important contributions by Rolf Landauer in the 1960s, are explored in Entropy in thermodynamics and information theory.
+
+In Shannon's revolutionary and groundbreaking paper, the work for which had been substantially completed at Bell Labs by the end of 1944, Shannon for the first time introduced the qualitative and quantitative model of communication as a statistical process underlying information theory, opening with the assertion:
+
+"The fundamental problem of communication is that of reproducing at one point, either exactly or approximately, a message selected at another point."
+With it came the ideas of
+
